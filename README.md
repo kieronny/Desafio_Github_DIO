@@ -19,7 +19,7 @@ Instalação
 crie uma nova pasta, abra-a e execute o comando
 #git init
 
-[Obtenha um repositório}
+[Obtenha um repositório]
 crie uma cópia de trabalho em um repositório local executando o comando
 #git clone /caminho/para/o/repositório
 quando usar um servidor remoto, seu comando será
